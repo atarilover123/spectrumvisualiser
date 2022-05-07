@@ -16,6 +16,6 @@ Some examples of the system in action
 <img src="https://raw.githubusercontent.com/atarilover123/spectrumvisualiser/main/blob.34.jpg" width="400">
 <img src="https://raw.githubusercontent.com/atarilover123/spectrumvisualiser/main/spectrum.27.png" width="400">
 
-Please feel to download and experiment. If you use this in your own work please credit me - generative visualisers, created by Dan Tapper.
+Please feel to download and experiment. If you use this in your own work please credit me thusly - generative audio-visualisers, created by Dan Tapper.
 If you wish to incorporate elements into commercial work or request specific versions or augmentations [please contact me directly.](https://www.dantappersounddesign.com/)
 
