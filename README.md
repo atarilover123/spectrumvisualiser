@@ -11,11 +11,6 @@ This framework was first developed in [2021](https://www.instagram.com/p/CUq_bLg
 
 [augmented spectrum visualisations, TouchDesigner file](https://github.com/atarilover123/spectrumvisualiser/blob/main/Spectrum_visualisers_3Ddisplace%2BNoise.1.toe)
 
-Some examples of the system in action
-
-<img src="https://raw.githubusercontent.com/atarilover123/spectrumvisualiser/main/blob.34.jpg" width="400">
-<img src="https://raw.githubusercontent.com/atarilover123/spectrumvisualiser/main/spectrum.27.png" width="400">
-
-Please feel to download and experiment. If you use this in your own work please credit me thusly - generative audio-visualisers, created by Dan Tapper.
+Please feel to download and experiment. If you use this in your own work please credit me.
 If you wish to incorporate elements into commercial work or request specific versions or augmentations [please contact me directly.](https://www.dantappersounddesign.com/)
 
