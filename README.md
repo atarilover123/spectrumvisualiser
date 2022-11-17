@@ -11,6 +11,5 @@ This framework was first developed in [2021](https://www.instagram.com/p/CUq_bLg
 
 [augmented spectrum visualisations, TouchDesigner file](https://github.com/atarilover123/spectrumvisualiser/blob/main/Spectrum_visualisers_3Ddisplace%2BNoise.1.toe)
 
-Please feel to download and experiment. If you use this in your own work please credit me.
-If you wish to incorporate elements into commercial work or request specific versions or augmentations [please contact me directly.](https://www.dantappersounddesign.com/)
+Please feel to download and experiment. (https://www.dantappersounddesign.com/)
 
