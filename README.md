@@ -1,4 +1,4 @@
-# spectrumvisualiser
+# spectrumvisualiser - workshop
 A framework for quickly working with audio spectrum in TouchDesigner.
 
 <img src="https://github.com/atarilover123/spectrumvisualiser/blob/main/Screen%20Shot%202022-04-19%20at%202.26.42%20PM.png" width="800">
